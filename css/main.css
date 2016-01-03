@@ -1,3 +1,19 @@
 #header {
 	background-color: #59d5ff;
 }
+
+h1 {
+	font-family: 'big caslon';
+	font-size: 2.0em;
+}
+
+#header li {
+	font-family: 'big caslon';
+	font-size: 1.1em;
+	text-align: center;
+	display: inline;
+}
+
+body {
+	background-color: #48abcc;
+}
